@@ -4,9 +4,9 @@ Clone da página inicial da Unitel
 
 # Sobre o projecto:
 
-O projeto foi feito para o exercécio prático para a formação da Unitel Code Web, 2ª edição.  
+O projeto foi feito para o exercécio prático para a formação Unitel Code Web, 2ª edição.  
 
-O projecto ainda não está a 100%, faltando alguns facores, como por exemplo a parte da responsividade e mais outros detalhes...
+O projecto ainda não está a 100%, faltando alguns factores, como por exemplo a parte da responsividade e mais outros detalhes...
 
 # Tecnologias Usadas:
 
