@@ -17,5 +17,5 @@ O projecto ainda não está a 100%, faltando alguns factores, como por exemplo a
 
 # LAYOUT DA PÁGINA
 
-![screencapture-127-0-0-1-5501-index-html-2021-10-04-01_39_32.png](Projecto%20Clone%20afe0cd5cecd04d6bbc8bc11a412d18bd/screencapture-127-0-0-1-5501-index-html-2021-10-04-01_39_32.png)
 
+![clone](https://user-images.githubusercontent.com/56198906/135927441-1e72a85f-a6e1-4e8d-95e1-657c6ebb61e6.png)
